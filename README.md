@@ -1,5 +1,5 @@
 # Travel Agency Website
-Experience Travel Explorer, a beautifully crafted front-end travel website using HTML and CSS. Delve into a visual adventure with our mesmerizing destination gallery, plan your trips with the assistance of tour guide profiles, and reach out to us through our contact page. To explore Travel Explorer, simply clone the repository and open index.html in your preferred browser. Contribute and customize as you traverse the globe through our virtual travel portal. 安全な旅を!!✈️🌍
+Experience Travel Explorer, a beautifully crafted front-end travel website using HTML and CSS. Delve into a visual adventure with our mesmerizing destination gallery, plan your trips with the assistance of tour guide profiles, and reach out to us through our contact page. To explore Travel Explorer, simply clone the repository and open `index.html` in your preferred browser. Contribute and customize as you traverse the globe through our virtual travel portal. 安全な旅を!!✈️🌍
 
 # Output
 <img src="https://github.com/thilaknrai/Travel-Agency-Website/assets/130270049/36f57fb5-0115-4f83-b5bd-deabb6b17f54" width=700>
